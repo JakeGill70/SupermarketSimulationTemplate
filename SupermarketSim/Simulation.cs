@@ -168,7 +168,7 @@ namespace SupermarketSim {
 		/// in the listboxs on the form representing lines at a register.</returns>
 		private List<string>[] SetupRegisters() 
 		{
-            List<string>[] queues = new List<string>[14];
+            List<string>[] queues = new List<string>[15];
             queues = queues.Select(x => x = new List<string>()).ToArray();
 
             foreach (var item in Register1 .Items){queues[ 0].Add(item?.ToString() ?? string.Empty);}
