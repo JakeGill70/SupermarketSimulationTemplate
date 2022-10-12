@@ -143,7 +143,7 @@
 			this.R15Queue.Size = new System.Drawing.Size(48, 20);
 			this.R15Queue.TabIndex = 20;
 			this.R15Queue.Text = "15: 00";
-			this.R15Queue.Visible = false;
+			
 			// 
 			// R14Queue
 			// 
@@ -155,7 +155,7 @@
 			this.R14Queue.Size = new System.Drawing.Size(48, 20);
 			this.R14Queue.TabIndex = 20;
 			this.R14Queue.Text = "14: 00";
-			this.R14Queue.Visible = false;
+			
 			// 
 			// R13Queue
 			// 
@@ -167,7 +167,7 @@
 			this.R13Queue.Size = new System.Drawing.Size(48, 20);
 			this.R13Queue.TabIndex = 20;
 			this.R13Queue.Text = "13: 00";
-			this.R13Queue.Visible = false;
+			
 			// 
 			// R12Queue
 			// 
@@ -179,7 +179,7 @@
 			this.R12Queue.Size = new System.Drawing.Size(48, 20);
 			this.R12Queue.TabIndex = 20;
 			this.R12Queue.Text = "12: 00";
-			this.R12Queue.Visible = false;
+			
 			// 
 			// R11Queue
 			// 
@@ -191,7 +191,7 @@
 			this.R11Queue.Size = new System.Drawing.Size(48, 20);
 			this.R11Queue.TabIndex = 20;
 			this.R11Queue.Text = "11: 00";
-			this.R11Queue.Visible = false;
+			
 			// 
 			// R10Queue
 			// 
@@ -203,7 +203,7 @@
 			this.R10Queue.Size = new System.Drawing.Size(48, 20);
 			this.R10Queue.TabIndex = 19;
 			this.R10Queue.Text = "10: 00";
-			this.R10Queue.Visible = false;
+			
 			// 
 			// R9Queue
 			// 
@@ -215,7 +215,7 @@
 			this.R9Queue.Size = new System.Drawing.Size(48, 20);
 			this.R9Queue.TabIndex = 19;
 			this.R9Queue.Text = "09: 00";
-			this.R9Queue.Visible = false;
+			
 			// 
 			// R8Queue
 			// 
@@ -227,7 +227,7 @@
 			this.R8Queue.Size = new System.Drawing.Size(48, 20);
 			this.R8Queue.TabIndex = 19;
 			this.R8Queue.Text = "08: 00";
-			this.R8Queue.Visible = false;
+			
 			// 
 			// R7Queue
 			// 
@@ -239,7 +239,7 @@
 			this.R7Queue.Size = new System.Drawing.Size(48, 20);
 			this.R7Queue.TabIndex = 19;
 			this.R7Queue.Text = "07: 00";
-			this.R7Queue.Visible = false;
+			
 			// 
 			// R6Queue
 			// 
@@ -251,7 +251,7 @@
 			this.R6Queue.Size = new System.Drawing.Size(48, 20);
 			this.R6Queue.TabIndex = 19;
 			this.R6Queue.Text = "06: 00";
-			this.R6Queue.Visible = false;
+			
 			// 
 			// R5Queue
 			// 
@@ -263,7 +263,7 @@
 			this.R5Queue.Size = new System.Drawing.Size(48, 20);
 			this.R5Queue.TabIndex = 19;
 			this.R5Queue.Text = "05: 00";
-			this.R5Queue.Visible = false;
+			
 			// 
 			// R4Queue
 			// 
@@ -275,7 +275,7 @@
 			this.R4Queue.Size = new System.Drawing.Size(48, 20);
 			this.R4Queue.TabIndex = 19;
 			this.R4Queue.Text = "04: 00";
-			this.R4Queue.Visible = false;
+			
 			// 
 			// R3Queue
 			// 
@@ -287,7 +287,7 @@
 			this.R3Queue.Size = new System.Drawing.Size(48, 20);
 			this.R3Queue.TabIndex = 17;
 			this.R3Queue.Text = "03: 00";
-			this.R3Queue.Visible = false;
+			
 			// 
 			// R2Queue
 			// 
@@ -299,7 +299,7 @@
 			this.R2Queue.Size = new System.Drawing.Size(48, 20);
 			this.R2Queue.TabIndex = 16;
 			this.R2Queue.Text = "02: 00";
-			this.R2Queue.Visible = false;
+			
 			// 
 			// Register15
 			// 
@@ -310,7 +310,7 @@
 			this.Register15.Name = "Register15";
 			this.Register15.Size = new System.Drawing.Size(48, 244);
 			this.Register15.TabIndex = 15;
-			this.Register15.Visible = false;
+			
 			// 
 			// Register14
 			// 
@@ -321,7 +321,7 @@
 			this.Register14.Name = "Register14";
 			this.Register14.Size = new System.Drawing.Size(48, 244);
 			this.Register14.TabIndex = 14;
-			this.Register14.Visible = false;
+			
 			// 
 			// Register13
 			// 
@@ -332,7 +332,7 @@
 			this.Register13.Name = "Register13";
 			this.Register13.Size = new System.Drawing.Size(48, 244);
 			this.Register13.TabIndex = 13;
-			this.Register13.Visible = false;
+			
 			// 
 			// Register12
 			// 
@@ -343,7 +343,7 @@
 			this.Register12.Name = "Register12";
 			this.Register12.Size = new System.Drawing.Size(48, 244);
 			this.Register12.TabIndex = 12;
-			this.Register12.Visible = false;
+			
 			// 
 			// Register11
 			// 
@@ -354,7 +354,7 @@
 			this.Register11.Name = "Register11";
 			this.Register11.Size = new System.Drawing.Size(48, 244);
 			this.Register11.TabIndex = 11;
-			this.Register11.Visible = false;
+			
 			// 
 			// Register10
 			// 
@@ -365,7 +365,7 @@
 			this.Register10.Name = "Register10";
 			this.Register10.Size = new System.Drawing.Size(48, 244);
 			this.Register10.TabIndex = 10;
-			this.Register10.Visible = false;
+			
 			// 
 			// Register9
 			// 
@@ -376,7 +376,7 @@
 			this.Register9.Name = "Register9";
 			this.Register9.Size = new System.Drawing.Size(48, 244);
 			this.Register9.TabIndex = 9;
-			this.Register9.Visible = false;
+			
 			// 
 			// Register8
 			// 
@@ -387,7 +387,7 @@
 			this.Register8.Name = "Register8";
 			this.Register8.Size = new System.Drawing.Size(48, 244);
 			this.Register8.TabIndex = 8;
-			this.Register8.Visible = false;
+			
 			// 
 			// Register7
 			// 
@@ -398,7 +398,7 @@
 			this.Register7.Name = "Register7";
 			this.Register7.Size = new System.Drawing.Size(48, 244);
 			this.Register7.TabIndex = 7;
-			this.Register7.Visible = false;
+			
 			// 
 			// Register6
 			// 
@@ -409,7 +409,7 @@
 			this.Register6.Name = "Register6";
 			this.Register6.Size = new System.Drawing.Size(48, 244);
 			this.Register6.TabIndex = 6;
-			this.Register6.Visible = false;
+			
 			// 
 			// Register5
 			// 
@@ -420,7 +420,7 @@
 			this.Register5.Name = "Register5";
 			this.Register5.Size = new System.Drawing.Size(48, 244);
 			this.Register5.TabIndex = 5;
-			this.Register5.Visible = false;
+			
 			// 
 			// Register4
 			// 
@@ -431,7 +431,7 @@
 			this.Register4.Name = "Register4";
 			this.Register4.Size = new System.Drawing.Size(48, 244);
 			this.Register4.TabIndex = 4;
-			this.Register4.Visible = false;
+			
 			// 
 			// Register3
 			// 
@@ -442,7 +442,7 @@
 			this.Register3.Name = "Register3";
 			this.Register3.Size = new System.Drawing.Size(48, 244);
 			this.Register3.TabIndex = 3;
-			this.Register3.Visible = false;
+			
 			// 
 			// Register2
 			// 
@@ -453,7 +453,7 @@
 			this.Register2.Name = "Register2";
 			this.Register2.Size = new System.Drawing.Size(48, 244);
 			this.Register2.TabIndex = 2;
-			this.Register2.Visible = false;
+			
 			// 
 			// Register1
 			// 
@@ -464,7 +464,7 @@
 			this.Register1.Name = "Register1";
 			this.Register1.Size = new System.Drawing.Size(48, 244);
 			this.Register1.TabIndex = 1;
-			this.Register1.Visible = false;
+			
 			// 
 			// R1Queue
 			// 
@@ -476,7 +476,7 @@
 			this.R1Queue.Size = new System.Drawing.Size(48, 20);
 			this.R1Queue.TabIndex = 0;
 			this.R1Queue.Text = "01: 00";
-			this.R1Queue.Visible = false;
+			
 			// 
 			// LQLabel
 			// 
