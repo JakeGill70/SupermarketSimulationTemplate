@@ -128,7 +128,8 @@ namespace SupermarketSim {
 
 			for (int i = 0; i < listBoxRegisterQueues.Length; i++)
 			{
-				listBoxRegisterQueues[i].Items.AddRange(registers[i].ToArray());
+				listBoxRegisterQueues[i].Items.Clear();
+                listBoxRegisterQueues[i].Items.AddRange(registers[i].ToArray());
             }
 		}
 
